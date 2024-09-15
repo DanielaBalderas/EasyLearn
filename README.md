@@ -16,3 +16,5 @@
 - El software educativo cuenta con una interfaz inicial en la que el padre accede utilizando un nombre de usuario y una contraseña. Una vez dentro, el padre puede visualizar el perfil de su hijo y acceder a opciones para personalizar los temas de aprendizaje según las necesidades del niño. Por ejemplo, puede solicitar problemas de matemáticas o enfocar el contenido en cualquier área que el niño necesite reforzar.
 
 - El perfil del niño proporcionará acceso a los ejercicios solicitados por el padre. Estos ejercicios estarán disponibles en formato de imagen y audio, incluyendo explicaciones detalladas y pasos a seguir. El niño podrá seleccionar la respuesta correcta para avanzar al siguiente ejercicio, repitiendo este proceso hasta completar todos los ejercicios.
+
+
