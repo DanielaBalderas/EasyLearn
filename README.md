@@ -17,4 +17,3 @@
 
 - El perfil del niño proporcionará acceso a los ejercicios solicitados por el padre. Estos ejercicios estarán disponibles en formato de imagen y audio, incluyendo explicaciones detalladas y pasos a seguir. El niño podrá seleccionar la respuesta correcta para avanzar al siguiente ejercicio, repitiendo este proceso hasta completar todos los ejercicios.
 
-
