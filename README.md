@@ -9,8 +9,8 @@
 - Desarrollar una aplicación de Inteligencia Artificial diseñada para apoyar a los niños con métodos de aprendizaje personalizados, permitiéndoles aprender a su propio ritmo. La aplicación será controlada por los padres, quienes podrán ajustar el enfoque de aprendizaje según las necesidades específicas de cada niño. Esto les permitirá reforzar áreas en las que necesiten mejorar y adaptar el contenido educativo para facilitar un aprendizaje más efectivo y personalizado.
 
 ## El uso de los ODS que se implementarán son:
-4. Educación de calidad
-10. Reducción de la desigualdad
+- 4. Educación de calidad
+- 10. Reducción de la desigualdad
 
 ## Cómo lo soluciona:
 - El software educativo cuenta con una interfaz inicial en la que el padre accede utilizando un nombre de usuario y una contraseña. Una vez dentro, el padre puede visualizar el perfil de su hijo y acceder a opciones para personalizar los temas de aprendizaje según las necesidades del niño. Por ejemplo, puede solicitar problemas de matemáticas o enfocar el contenido en cualquier área que el niño necesite reforzar.
